@@ -40,3 +40,20 @@ msgstr "只读"
 msgid "Read/Write"
 msgstr "可读/写"
 
+msgid "Server IP/Hostname"
+msgstr "服务器 IP/主机名"
+
+msgid "MAC Address"
+msgstr "MAC 地址"
+
+msgid "Device: %s (%s)"
+msgstr "设备: %s (%s)"
+
+msgid "Device: %s"
+msgstr "设备: %s"
+
+msgid "Custom MAC Address"
+msgstr "自定义 MAC 地址"
+
+msgid "Failed to resolve hostname to IP address."
+msgstr "无法将主机名解析为 IP 地址。"
